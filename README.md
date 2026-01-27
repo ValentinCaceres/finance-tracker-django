@@ -101,7 +101,7 @@ MIT License
 
 ## 👤 Author
 
-**Your Name**
+**Valentin Caceres Harris**
 - GitHub: [@your-username](https://github.com/your-username)
 
 ---
