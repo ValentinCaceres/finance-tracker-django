@@ -102,7 +102,7 @@ MIT License
 ## 👤 Author
 
 **Valentin Caceres Harris**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@ValentinCaceres](https://github.com/ValentinCaceres)
 
 ---
 
