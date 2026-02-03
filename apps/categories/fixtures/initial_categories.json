@@ -1,0 +1,152 @@
+[
+  {
+    "model": "categories.category",
+    "pk": 1,
+    "fields": {
+      "name": "Food & Dining",
+      "transaction_type": "expense",
+      "color": "#EF4444",
+      "icon": "UtensilsCrossed",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 2,
+    "fields": {
+      "name": "Groceries",
+      "transaction_type": "expense",
+      "color": "#EF4444",
+      "icon": "ShoppingCart",
+      "parent": 1,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 3,
+    "fields": {
+      "name": "Restaurants",
+      "transaction_type": "expense",
+      "color": "#EF4444",
+      "icon": "Coffee",
+      "parent": 1,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 4,
+    "fields": {
+      "name": "Transportation",
+      "transaction_type": "expense",
+      "color": "#F59E0B",
+      "icon": "Car",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 5,
+    "fields": {
+      "name": "Housing",
+      "transaction_type": "expense",
+      "color": "#10B981",
+      "icon": "Home",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 6,
+    "fields": {
+      "name": "Entertainment",
+      "transaction_type": "expense",
+      "color": "#3B82F6",
+      "icon": "Tv",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 7,
+    "fields": {
+      "name": "Health",
+      "transaction_type": "expense",
+      "color": "#EC4899",
+      "icon": "Heart",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 8,
+    "fields": {
+      "name": "Salary",
+      "transaction_type": "income",
+      "color": "#10B981",
+      "icon": "Briefcase",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 9,
+    "fields": {
+      "name": "Freelance",
+      "transaction_type": "income",
+      "color": "#10B981",
+      "icon": "Laptop",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  },
+  {
+    "model": "categories.category",
+    "pk": 10,
+    "fields": {
+      "name": "Investments",
+      "transaction_type": "income",
+      "color": "#10B981",
+      "icon": "TrendingUp",
+      "parent": null,
+      "user": null,
+      "is_active": true,
+      "created_at": "2025-01-27T00:00:00Z",
+      "updated_at": "2025-01-27T00:00:00Z"
+    }
+  }
+]
